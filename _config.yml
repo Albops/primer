@@ -11,6 +11,7 @@ github:
   private: false
   license:
     name: MIT
+    titel: null
   source:
     branch: "master"
     path: "/"
